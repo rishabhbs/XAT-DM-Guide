@@ -135,7 +135,7 @@ export function AddTestModal({ onTestAdded }: AddTestModalProps) {
       <DialogTrigger asChild>
         <Button className="gap-2">
           <Plus className="w-4 h-4" />
-          Add New Test
+          Add New Testes
         </Button>
       </DialogTrigger>
       <DialogContent className="sm:max-w-lg">
